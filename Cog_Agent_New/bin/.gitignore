@@ -1,0 +1,10 @@
+.DS_Store
+src/.metadata/*
+/bin/
+.metadata/*
+.classpath
+.project
+src/.project
+src/.classpath
+.settings/
+src/requestManagerProto*
